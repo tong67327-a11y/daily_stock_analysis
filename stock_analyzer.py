@@ -149,7 +149,7 @@ class StockTrendAnalyzer:
         
         Args:
             df: 包含 OHLCV 数据的 DataFrame
-            code: 股票代码
+            code: 300459,601888,603686,002922,600876
             
         Returns:
             TrendAnalysisResult 分析结果
